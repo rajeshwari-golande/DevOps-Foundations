@@ -308,7 +308,7 @@ less /var/log/syslog
 
 ---
 
-# 15. `wc`
+# 15. `wc` Word Count
 
 ## What is `wc`?
 
